@@ -7314,8 +7314,8 @@ spawn(function()
 end)
 end
 ----------------------------------------------------------------------------------------------------------------------------------------------
-InterfaceManager:SetFolder(MahiruScriptHub")
-SaveManager:SetFolder("MahiruScriptHub/specific-game")
+InterfaceManager:SetFolder(w-shinna mahiru Hub")
+SaveManager:SetFolder("w-shinna mahiru Hub/specific-game")
 Window:SelectTab(1)
 Fluent:Notify({
     Title = "w-shinna mahiru hub",
